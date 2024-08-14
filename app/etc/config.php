@@ -349,6 +349,7 @@ return [
         'PayPal_Braintree' => 1,
         'PayPal_BraintreeGraphQl' => 1,
         'Temando_ShippingRemover' => 1,
+        'Training_ConsoleExample' => 1,
         'Training_Contact' => 1,
         'Training_Example' => 1,
         'Training_HeaderFooterScripts' => 1,
