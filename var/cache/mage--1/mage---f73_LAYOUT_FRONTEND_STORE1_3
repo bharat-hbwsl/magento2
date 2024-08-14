@@ -1,4 +1,4 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1723634402;s:6:"expire";i:1755170402;s:4:"tags";s:37:"f73_LAYOUT_GENERAL_CACHE_TAG,f73_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1723635632;s:6:"expire";i:1755171632;s:4:"tags";s:37:"f73_LAYOUT_GENERAL_CACHE_TAG,f73_MAGE";}
 <?xml version="1.0"?>
 <layouts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><handle id="catalog_category_view"><body/>
 </handle><handle id="catalogsearch_advanced_index"><body/>
@@ -7136,6 +7136,15 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1723634402;s:6:"expire";i:1755170402;s:4:"t
       <block name="before_body_end_header_footer_script" template="Training_HeaderFooterScripts::body_end/header_footer_scripts.phtml" class="Magento\Framework\View\Element\Template">
             </block>
    </referenceBlock>
+</body>
+</handle><handle id="interfaces_index_index"><body>
+   <referenceContainer name="content">
+      <block name="interfaces" class="Magento\Framework\View\Element\Template" template="Training_Interfaces::interfaces.phtml">
+         <arguments>
+            <argument name="view_model" xsi:type="object">Training\Interfaces\ViewModel\Interfaces</argument>
+         </arguments>
+      </block>
+   </referenceContainer>
 </body>
 </handle><handle id="layout_example_layout_index"><head>
    <title>Layout Example</title>
