@@ -1,4 +1,4 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1723630725;s:6:"expire";i:1723717125;s:4:"tags";s:116:"f73_CAT_P,f73_BLOCK_HTML,f73_CAT_P_1556,f73_CAT_P_1812,f73_CAT_P_694,f73_CAT_P_158,f73_CAT_P_6,f73_CAT_P_14,f73_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1723634403;s:6:"expire";i:1723720803;s:4:"tags";s:116:"f73_CAT_P,f73_BLOCK_HTML,f73_CAT_P_1556,f73_CAT_P_1812,f73_CAT_P_694,f73_CAT_P_158,f73_CAT_P_6,f73_CAT_P_14,f73_MAGE";}
         <div class="block widget block-products-list grid">
                 <div class="block-content">
             <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
@@ -44,9 +44,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="60%">
                 <span><span>60%</span></span>
             </div>
-            <script type="text&#x2F;javascript">    var elemdq7LBHZsArray = document.querySelectorAll('#rating-result_1556 span');
-    if(elemdq7LBHZsArray.length !== 'undefined'){
-        elemdq7LBHZsArray.forEach(function(element) {
+            <script type="text&#x2F;javascript">    var elem1qADspydArray = document.querySelectorAll('#rating-result_1556 span');
+    if(elem1qADspydArray.length !== 'undefined'){
+        elem1qADspydArray.forEach(function(element) {
             if (element) {
                 element.style.width = '60%';
 
@@ -113,7 +113,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="WS12" action="http://bharat.magento.com/checkout/cart/add/uenc/aHR0cDovL2JoYXJhdC5tYWdlbnRvLmNvbS8~/product/1556/" method="post">
                                                             <input type="hidden" name="product" value="1556">
                                                             <input type="hidden" name="uenc" value="aHR0cDovL2JoYXJhdC5tYWdlbnRvLmNvbS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92TDJKb1lYSmhkQzV0WVdkbGJuUnZMbU52YlM4fi9wcm9kdWN0LzE1NTYv">
-                                                            <input name="form_key" type="hidden" value="OOtpJdMtb5467cMc" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="YK2OEj2vNOIWQbVg" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -174,9 +174,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="70%">
                 <span><span>70%</span></span>
             </div>
-            <script type="text&#x2F;javascript">    var elemIreCxc0AArray = document.querySelectorAll('#rating-result_1812 span');
-    if(elemIreCxc0AArray.length !== 'undefined'){
-        elemIreCxc0AArray.forEach(function(element) {
+            <script type="text&#x2F;javascript">    var elemsbj99QAWArray = document.querySelectorAll('#rating-result_1812 span');
+    if(elemsbj99QAWArray.length !== 'undefined'){
+        elemsbj99QAWArray.forEach(function(element) {
             if (element) {
                 element.style.width = '70%';
 
@@ -243,7 +243,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="WT09" action="http://bharat.magento.com/checkout/cart/add/uenc/aHR0cDovL2JoYXJhdC5tYWdlbnRvLmNvbS8~/product/1812/" method="post">
                                                             <input type="hidden" name="product" value="1812">
                                                             <input type="hidden" name="uenc" value="aHR0cDovL2JoYXJhdC5tYWdlbnRvLmNvbS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92TDJKb1lYSmhkQzV0WVdkbGJuUnZMbU52YlM4fi9wcm9kdWN0LzE4MTIv">
-                                                            <input name="form_key" type="hidden" value="OOtpJdMtb5467cMc" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="YK2OEj2vNOIWQbVg" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -350,7 +350,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="MT07" action="http://bharat.magento.com/checkout/cart/add/uenc/aHR0cDovL2JoYXJhdC5tYWdlbnRvLmNvbS8~/product/694/" method="post">
                                                             <input type="hidden" name="product" value="694">
                                                             <input type="hidden" name="uenc" value="aHR0cDovL2JoYXJhdC5tYWdlbnRvLmNvbS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92TDJKb1lYSmhkQzV0WVdkbGJuUnZMbU52YlM4fi9wcm9kdWN0LzY5NC8~">
-                                                            <input name="form_key" type="hidden" value="OOtpJdMtb5467cMc" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="YK2OEj2vNOIWQbVg" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -457,7 +457,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="MH07" action="http://bharat.magento.com/checkout/cart/add/uenc/aHR0cDovL2JoYXJhdC5tYWdlbnRvLmNvbS8~/product/158/" method="post">
                                                             <input type="hidden" name="product" value="158">
                                                             <input type="hidden" name="uenc" value="aHR0cDovL2JoYXJhdC5tYWdlbnRvLmNvbS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92TDJKb1lYSmhkQzV0WVdkbGJuUnZMbU52YlM4fi9wcm9kdWN0LzE1OC8~">
-                                                            <input name="form_key" type="hidden" value="OOtpJdMtb5467cMc" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="YK2OEj2vNOIWQbVg" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -518,9 +518,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="67%">
                 <span><span>67%</span></span>
             </div>
-            <script type="text&#x2F;javascript">    var elemCYaGd0cNArray = document.querySelectorAll('#rating-result_6 span');
-    if(elemCYaGd0cNArray.length !== 'undefined'){
-        elemCYaGd0cNArray.forEach(function(element) {
+            <script type="text&#x2F;javascript">    var elemRv08o6PiArray = document.querySelectorAll('#rating-result_6 span');
+    if(elemRv08o6PiArray.length !== 'undefined'){
+        elemRv08o6PiArray.forEach(function(element) {
             if (element) {
                 element.style.width = '67%';
 
@@ -553,7 +553,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="24-MB02" action="http://bharat.magento.com/checkout/cart/add/uenc/aHR0cDovL2JoYXJhdC5tYWdlbnRvLmNvbS8~/product/6/" method="post">
                                                             <input type="hidden" name="product" value="6">
                                                             <input type="hidden" name="uenc" value="aHR0cDovL2JoYXJhdC5tYWdlbnRvLmNvbS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92TDJKb1lYSmhkQzV0WVdkbGJuUnZMbU52YlM4fi9wcm9kdWN0LzYv">
-                                                            <input name="form_key" type="hidden" value="OOtpJdMtb5467cMc" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="YK2OEj2vNOIWQbVg" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
@@ -614,9 +614,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="67%">
                 <span><span>67%</span></span>
             </div>
-            <script type="text&#x2F;javascript">    var elembpH6yfo7Array = document.querySelectorAll('#rating-result_14 span');
-    if(elembpH6yfo7Array.length !== 'undefined'){
-        elembpH6yfo7Array.forEach(function(element) {
+            <script type="text&#x2F;javascript">    var elem7FyL24xDArray = document.querySelectorAll('#rating-result_14 span');
+    if(elem7FyL24xDArray.length !== 'undefined'){
+        elem7FyL24xDArray.forEach(function(element) {
             if (element) {
                 element.style.width = '67%';
 
@@ -649,7 +649,7 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                                                                                                                                                                     <form data-role="tocart-form" data-product-sku="24-WB04" action="http://bharat.magento.com/checkout/cart/add/uenc/aHR0cDovL2JoYXJhdC5tYWdlbnRvLmNvbS8~/product/14/" method="post">
                                                             <input type="hidden" name="product" value="14">
                                                             <input type="hidden" name="uenc" value="aHR0cDovL2JoYXJhdC5tYWdlbnRvLmNvbS9jaGVja291dC9jYXJ0L2FkZC91ZW5jL2FIUjBjRG92TDJKb1lYSmhkQzV0WVdkbGJuUnZMbU52YlM4fi9wcm9kdWN0LzE0Lw~~">
-                                                            <input name="form_key" type="hidden" value="OOtpJdMtb5467cMc" />                                                            <button type="submit"
+                                                            <input name="form_key" type="hidden" value="YK2OEj2vNOIWQbVg" />                                                            <button type="submit"
                                                                     title="Add to Cart"
                                                                     class="action tocart primary">
                                                                 <span>Add to Cart</span>
