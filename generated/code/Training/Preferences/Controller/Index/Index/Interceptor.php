@@ -1,10 +1,10 @@
 <?php
-namespace Training\VirtualTypeExample\Controller\Index\Index;
+namespace Training\Preferences\Controller\Index\Index;
 
 /**
- * Interceptor class for @see \Training\VirtualTypeExample\Controller\Index\Index
+ * Interceptor class for @see \Training\Preferences\Controller\Index\Index
  */
-class Interceptor extends \Training\VirtualTypeExample\Controller\Index\Index implements \Magento\Framework\Interception\InterceptorInterface
+class Interceptor extends \Training\Preferences\Controller\Index\Index implements \Magento\Framework\Interception\InterceptorInterface
 {
     use \Magento\Framework\Interception\Interceptor;
 
