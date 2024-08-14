@@ -1,4 +1,4 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1723635632;s:6:"expire";i:1723722032;s:4:"tags";s:116:"f73_CAT_P,f73_BLOCK_HTML,f73_CAT_P_1556,f73_CAT_P_1812,f73_CAT_P_694,f73_CAT_P_158,f73_CAT_P_6,f73_CAT_P_14,f73_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1723635930;s:6:"expire";i:1723722330;s:4:"tags";s:116:"f73_CAT_P,f73_BLOCK_HTML,f73_CAT_P_1556,f73_CAT_P_1812,f73_CAT_P_694,f73_CAT_P_158,f73_CAT_P_6,f73_CAT_P_14,f73_MAGE";}
         <div class="block widget block-products-list grid">
                 <div class="block-content">
             <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
@@ -44,9 +44,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="60%">
                 <span><span>60%</span></span>
             </div>
-            <script type="text&#x2F;javascript">    var elemkq97jJw5Array = document.querySelectorAll('#rating-result_1556 span');
-    if(elemkq97jJw5Array.length !== 'undefined'){
-        elemkq97jJw5Array.forEach(function(element) {
+            <script type="text&#x2F;javascript">    var elemr2rqwgxDArray = document.querySelectorAll('#rating-result_1556 span');
+    if(elemr2rqwgxDArray.length !== 'undefined'){
+        elemr2rqwgxDArray.forEach(function(element) {
             if (element) {
                 element.style.width = '60%';
 
@@ -174,9 +174,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="70%">
                 <span><span>70%</span></span>
             </div>
-            <script type="text&#x2F;javascript">    var elem9Mb012s1Array = document.querySelectorAll('#rating-result_1812 span');
-    if(elem9Mb012s1Array.length !== 'undefined'){
-        elem9Mb012s1Array.forEach(function(element) {
+            <script type="text&#x2F;javascript">    var elemIxXGrQV3Array = document.querySelectorAll('#rating-result_1812 span');
+    if(elemIxXGrQV3Array.length !== 'undefined'){
+        elemIxXGrQV3Array.forEach(function(element) {
             if (element) {
                 element.style.width = '70%';
 
@@ -518,9 +518,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="67%">
                 <span><span>67%</span></span>
             </div>
-            <script type="text&#x2F;javascript">    var elemYapHi08JArray = document.querySelectorAll('#rating-result_6 span');
-    if(elemYapHi08JArray.length !== 'undefined'){
-        elemYapHi08JArray.forEach(function(element) {
+            <script type="text&#x2F;javascript">    var elemcIhJtlTkArray = document.querySelectorAll('#rating-result_6 span');
+    if(elemcIhJtlTkArray.length !== 'undefined'){
+        elemcIhJtlTkArray.forEach(function(element) {
             if (element) {
                 element.style.width = '67%';
 
@@ -614,9 +614,9 @@ for (var i = 0; i < prodImageContainersWrappers.length; i++) {
                  title="67%">
                 <span><span>67%</span></span>
             </div>
-            <script type="text&#x2F;javascript">    var elemUCfUEsXrArray = document.querySelectorAll('#rating-result_14 span');
-    if(elemUCfUEsXrArray.length !== 'undefined'){
-        elemUCfUEsXrArray.forEach(function(element) {
+            <script type="text&#x2F;javascript">    var elemDkMrES51Array = document.querySelectorAll('#rating-result_14 span');
+    if(elemDkMrES51Array.length !== 'undefined'){
+        elemDkMrES51Array.forEach(function(element) {
             if (element) {
                 element.style.width = '67%';
 
