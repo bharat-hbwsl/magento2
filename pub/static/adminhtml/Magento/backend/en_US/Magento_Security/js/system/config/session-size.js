@@ -1,0 +1,1 @@
+/var/www/html/magento2/vendor/magento/module-security/view/adminhtml/web/js/system/config/session-size.js
